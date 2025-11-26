@@ -1,12 +1,12 @@
 :root{
-  /* PALETA FUTURISTA (AZUL NEON + PRETO + CINZA) */
-  --bg:#0a0f1f;           /* azul preto moderno */
-  --bg-light:#111827;     /* cinza azulado */
-  --card:#1f2937;         /* cinza escuro */
-  --accent:#3b82f6;       /* azul neon */
-  --accent-light:#60a5fa; /* azul mais claro */
-  --text:#e5e7eb;         /* cinza claro */
-  --text-soft:#9ca3af;    /* cinza suave */
+    /* PALETA MODERNA CLARA (BRANCO + AZUL + CINZA) */
+    --bg:#ffffff;          /* fundo branco */
+    --bg-light:#f1f5f9;    /* cinza bem claro */
+    --card:#ffffff;        /* cards claros */
+    --accent:#2563eb;      /* azul forte */
+    --accent-light:#3b82f6;/* azul claro */
+    --text:#0f172a;        /* quase preto */
+    --text-soft:#475569;   /* cinza suave */
 }
 
 *{box-sizing:border-box;}
